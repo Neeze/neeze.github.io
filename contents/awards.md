@@ -1,9 +1,3 @@
-- First-prize Academic Scholarship, 2023.
+- Silver medal Traditional Olympic competition April 30 of Ho Chi Minh City, 2021
 
-- Freshman Academic Scholarship, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
+- Third-prize Information of technology competition of Ho Chi Minh City, 2022
