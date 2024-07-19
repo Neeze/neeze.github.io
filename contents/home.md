@@ -1,7 +1,20 @@
 I am currently pursuing a Bachelor Degree in artificial intelligence, at Financing and Promoting Technology of Ho Chi Minh University.
 
 #### GitHub
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/Neeze)
+[![Neeze](https://img.shields.io/badge/Neeze-github-blue?logo=github)](https://github.com/Neeze)
+
+#### Social Flatform
+[![Nam Nam](https://img.shields.io/badge/facebook-blue?style=flat-square&logo=facebook&labelColor=blue
+)](https://www.facebook.com/halo.im.nam)
+
+[![Phan Nam](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue
+)](https://www.linkedin.com/in/namvhphan)
+
+[![Nam Phan Van Hai](https://img.shields.io/badge/_-black?style=flat-square&logo=x
+)](https://x.com/PhanHai3636)
+
+
+
 
 
 #### Email
