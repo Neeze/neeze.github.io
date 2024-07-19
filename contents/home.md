@@ -4,7 +4,7 @@ I am currently pursuing a Bachelor Degree in artificial intelligence, at Financi
 [![Neeze](https://img.shields.io/badge/Neeze-github-blue?logo=github)](https://github.com/Neeze)
 
 #### Social Flatform
-[![Nam Nam](https://img.shields.io/badge/facebook-blue?style=flat-square&logo=facebook&labelColor=blue
+[![Nam Nam](https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook&labelColor=blue
 )](https://www.facebook.com/halo.im.nam)
 
 [![Phan Nam](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue
