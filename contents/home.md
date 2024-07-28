@@ -10,8 +10,6 @@ I am currently pursuing a Bachelor Degree in artificial intelligence, at Financi
 [![Phan Nam](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue
 )](https://www.linkedin.com/in/namvhphan)
 
-[![Nam Phan Van Hai](https://img.shields.io/badge/_-black?style=flat-square&logo=x
-)](https://x.com/PhanHai3636)
 
 
 
