@@ -1,2 +1,1 @@
-- Curently, I do not have any publication.
-
+* Nam Van Hai Phan, Tha Thanh Le, Tuan Phu Phan, Thuy Thu Le, Phuong-Nam Tran, Nhat Truong Pham and Duc Ngoc Minh Dang, “Deep Learning-Based Automated Cashier System for Bakeries”, 9th International Conference on Intelligent Information Technology (ICIIT 2024), Feb 23-25, 2024 [[Paper]](https://dl.acm.org/doi/10.1145/3654522.3654538)
